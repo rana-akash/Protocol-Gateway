@@ -1,0 +1,10 @@
+﻿{
+  "RetainPropertyName": "mqtt-retain",
+  "DupPropertyName": "mqtt-dup",
+  "QoSPropertyName": "mqtt-qos",
+  "MqttQoSStateProvider": "AzureStorage",
+  "ConnectArrivalTimeout": "00:05:00",
+  "MaxPendingInboundAcknowledgements": "16",
+  "MaxInboundMessageSize": "262144",
+  "MaxKeepAliveTimeout": "00:10:00"
+}
